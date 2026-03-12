@@ -1,4 +1,5 @@
 import { Router, Response, Request } from 'express';
+import logger from '../logger.js';
 
 const router = Router();
 
@@ -27,7 +28,7 @@ router.get('/', checkAuth, (req: Request, res: Response) => {
       data: sortedHistory
     });
   } catch (error) {
-    console.error('Get history error:', error);
+    logger.error('Get history error:', error);
     return res.status(500).json({
       success: false,
       error: 'Failed to retrieve history'
@@ -68,7 +69,7 @@ router.post('/', checkAuth, (req: Request, res: Response) => {
       data: entry
     });
   } catch (error) {
-    console.error('Save history error:', error);
+    logger.error('Save history error:', error);
     return res.status(500).json({
       success: false,
       error: 'Failed to save to history'
@@ -94,7 +95,7 @@ router.delete('/', checkAuth, (req: Request, res: Response) => {
       message: id ? 'Entry deleted' : 'History cleared'
     });
   } catch (error) {
-    console.error('Delete history error:', error);
+    logger.error('Delete history error:', error);
     return res.status(500).json({
       success: false,
       error: 'Failed to delete history'
@@ -120,7 +121,7 @@ router.get('/:id', checkAuth, (req: Request, res: Response) => {
       data: entry
     });
   } catch (error) {
-    console.error('Get history detail error:', error);
+    logger.error('Get history detail error:', error);
     return res.status(500).json({
       success: false,
       error: 'Failed to retrieve history detail'

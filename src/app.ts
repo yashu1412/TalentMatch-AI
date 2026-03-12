@@ -4,6 +4,7 @@ import helmet from 'helmet';
 import compression from 'compression';
 import rateLimit from 'express-rate-limit';
 import { Request, Response, NextFunction } from 'express';
+import logger from './logger.js';
 
 // Import routes
 import parseRoutes from './routes/parse.routes.js';
@@ -65,7 +66,7 @@ app.use('*', (req: Request, res: Response) => {
 
 // Global error handler
 app.use((err: Error, req: Request, res: Response, next: NextFunction) => {
-  console.error('Error:', err);
+  logger.error('Error:', err);
   
   res.status(500).json({
     error: 'Internal Server Error',

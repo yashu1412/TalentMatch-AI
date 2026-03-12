@@ -1,4 +1,5 @@
 import { PrismaClient } from '@prisma/client';
+import logger from '../src/logger.js';
 
 const prisma = new PrismaClient();
 
@@ -80,7 +81,7 @@ Develop and maintain our e-commerce platform, work on both frontend and backend 
 
 main()
   .catch((e) => {
-    console.error(e);
+    logger.error(e);
     process.exit(1);
   })
   .finally(async () => {

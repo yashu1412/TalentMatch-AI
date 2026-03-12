@@ -1,10 +1,11 @@
 import { Router, Response } from 'express';
 import multer from 'multer';
-import { ResumeParserService } from '../services/parsers/resume-parser.service';
-import { JDParserService } from '../services/parsers/jd-parser.service';
-import { PDFService } from '../services/text-extract/pdf.service';
-import { DocxService } from '../services/text-extract/docx.service';
-import { PlainTextService } from '../services/text-extract/plain-text.service';
+import { ResumeParserService } from '../services/parsers/resume-parser.service.js';
+import { JDParserService } from '../services/parsers/jd-parser.service.js';
+import { PDFService } from '../services/text-extract/pdf.service.js';
+import { DocxService } from '../services/text-extract/docx.service.js';
+import { PlainTextService } from '../services/text-extract/plain-text.service.js';
+import logger from '../logger.js';
 
 const router = Router();
 
@@ -50,7 +51,7 @@ router.post('/resume/text', async (req, res: Response) => {
       data: parsedResume
     });
   } catch (error) {
-    console.error('Resume text parsing error:', error);
+    logger.error('Resume text parsing error:', error);
     return res.status(500).json({
       success: false,
       error: error instanceof Error ? error.message : 'Failed to parse resume text'
@@ -92,7 +93,7 @@ router.post('/resume/file', upload.single('file'), async (req, res: Response) =>
       data: parsedResume
     });
   } catch (error) {
-    console.error('Resume file parsing error:', error);
+    logger.error('Resume file parsing error:', error);
     return res.status(500).json({
       success: false,
       error: error instanceof Error ? error.message : 'Failed to parse resume file'
@@ -119,7 +120,7 @@ router.post('/jd/text', async (req, res: Response) => {
       data: parsedJD
     });
   } catch (error) {
-    console.error('JD text parsing error:', error);
+    logger.error('JD text parsing error:', error);
     return res.status(500).json({
       success: false,
       error: error instanceof Error ? error.message : 'Failed to parse JD text'
@@ -162,7 +163,7 @@ router.post('/jd/file', upload.single('file'), async (req, res: Response) => {
       data: parsedJD
     });
   } catch (error) {
-    console.error('JD file parsing error:', error);
+    logger.error('JD file parsing error:', error);
     return res.status(500).json({
       success: false,
       error: error instanceof Error ? error.message : 'Failed to parse JD file'

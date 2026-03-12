@@ -1,5 +1,6 @@
 import dotenv from 'dotenv';
 import app from './app.js';
+import logger from './logger.js';
 
 // Load environment variables
 dotenv.config();
@@ -10,20 +11,20 @@ const startServer = async () => {
   try {
     // Start the server
     app.listen(PORT, () => {
-      console.log(`🚀 Resume-Job-Matcher API Server running on port ${PORT}`);
-      console.log(`📊 Health check: http://localhost:${PORT}/api/health`);
-      console.log(`🔧 Environment: ${process.env.NODE_ENV || 'development'}`);
-      console.log(`⏰ Started at: ${new Date().toISOString()}`);
+      logger.info(`🚀 TalentMatch AI API Server running on port ${PORT}`);
+      logger.info(`📊 Health check: http://localhost:${PORT}/api/health`);
+      logger.info(`🔧 Environment: ${process.env.NODE_ENV || 'development'}`);
+      logger.info(`⏰ Started at: ${new Date().toISOString()}`);
     });
 
     // Graceful shutdown
     process.on('SIGTERM', () => {
-      console.log('🔄 SIGTERM received, shutting down gracefully');
+      logger.info('🔄 SIGTERM received, shutting down gracefully');
       process.exit(0);
     });
 
     process.on('SIGINT', () => {
-      console.log('🔄 SIGINT received, shutting down gracefully');
+      logger.info('🔄 SIGINT received, shutting down gracefully');
       process.exit(0);
     });
 
@@ -35,7 +36,7 @@ const startServer = async () => {
 
 // Handle uncaught exceptions
 process.on('uncaughtException', (error) => {
-  console.error('❌ Uncaught Exception:', error);
+  logger.error('❌ Uncaught Exception:', error);
   process.exit(1);
 });
 

@@ -1,5 +1,6 @@
 import { Router, Response } from 'express';
-import { MatcherService } from '../services/matching/matcher.service';
+import { MatcherService } from '../services/matching/matcher.service.js';
+import logger from '../logger.js';
 
 const router = Router();
 
@@ -22,7 +23,7 @@ router.post('/single', async (req, res: Response) => {
       data: matchResult
     });
   } catch (error) {
-    console.error('Single match error:', error);
+    logger.error('Single match error:', error);
     return res.status(500).json({
       success: false,
       error: error instanceof Error ? error.message : 'Failed to match resume to JD'
@@ -49,7 +50,7 @@ router.post('/bulk', async (req, res: Response) => {
       data: matchResult
     });
   } catch (error) {
-    console.error('Bulk match error:', error);
+    logger.error('Bulk match error:', error);
     return res.status(500).json({
       success: false,
       error: error instanceof Error ? error.message : 'Failed to match resume to multiple JDs'
