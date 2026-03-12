@@ -5,7 +5,6 @@ import { useState } from "react";
 import { CheckCircle2, Target, TriangleAlert, Zap, Save } from "lucide-react";
 import GlassCard from "@/components/shared/GlassCard";
 import { useHistory } from "@/hooks/useHistory";
-import AuthenticatedContent from "@/components/auth/AuthenticatedContent";
 
 type MatchScoreCardProps = {
   score?: number;
@@ -194,33 +193,33 @@ export default function MatchScoreCard({
             )}
 
             {/* Save to History Button */}
-            <AuthenticatedContent>
-              <div className="mt-6">
-                <motion.button
-                  whileHover={{ scale: 1.02 }}
-                  whileTap={{ scale: 0.98 }}
-                  onClick={handleSaveToHistory}
-                  disabled={!canSave || !matchData || saving}
-                  className={`w-full inline-flex items-center justify-center gap-2 rounded-xl border px-4 py-3 text-sm font-medium transition-all duration-300 ${
-                    saved
-                      ? 'border-success/30 bg-success/20 text-success'
-                      : 'border-primary-light/30 bg-gradient-to-r from-primary-dark via-primary to-primary-glow text-white shadow-blue hover:-translate-y-0.5 hover:shadow-glow'
-                  } ${(!canSave || !matchData || saving) ? 'opacity-50 cursor-not-allowed' : ''}`}
-                >
-                  {saved ? (
-                    <>
-                      <CheckCircle2 className="w-4 h-4" />
-                      Saved to History
-                    </>
-                  ) : (
-                    <>
-                      <Save className="w-4 h-4" />
-                      {saving ? 'Saving...' : 'Save to History'}
-                    </>
-                  )}
-                </motion.button>
-              </div>
-            </AuthenticatedContent>
+            <div className="mt-6">
+              <motion.button
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
+                onClick={handleSaveToHistory}
+                disabled={saving || saved}
+                className={`flex w-full items-center justify-center gap-2.5 rounded-2xl border px-6 py-4 text-sm font-semibold transition-all duration-300 ${
+                  saved 
+                    ? "border-success/30 bg-success/10 text-success" 
+                    : "border-primary-glow/30 bg-primary-glow/10 text-primary-glow hover:bg-primary-glow/20"
+                }`}
+              >
+                {saving ? (
+                  <div className="h-5 w-5 animate-spin rounded-full border-2 border-primary-glow border-t-transparent" />
+                ) : saved ? (
+                  <>
+                    <CheckCircle2 className="h-5 w-5" />
+                    Saved to History
+                  </>
+                ) : (
+                  <>
+                    <Save className="h-5 w-5" />
+                    Save Results to History
+                  </>
+                )}
+              </motion.button>
+            </div>
           </div>
         </div>
       </GlassCard>

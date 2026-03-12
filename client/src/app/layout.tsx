@@ -1,7 +1,6 @@
 import type { Metadata } from 'next';
 import "./globals.css";
 import { Inter } from "next/font/google";
-import { ClerkProvider, SignInButton, SignUpButton, UserButton } from "@clerk/nextjs";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -23,20 +22,18 @@ export default function RootLayout({
       <body
         className={`${inter.variable} min-h-screen bg-background text-text-primary antialiased`}
       >
-        <ClerkProvider>
-          <div className="relative min-h-screen overflow-x-hidden">
-            <div className="pointer-events-none absolute inset-0 -z-20 bg-background" />
+        <div className="relative min-h-screen overflow-x-hidden">
+          <div className="pointer-events-none absolute inset-0 -z-20 bg-background" />
 
-            <div className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,rgba(37,99,235,0.18),transparent_35%),radial-gradient(circle_at_80%_20%,rgba(56,189,248,0.10),transparent_25%),linear-gradient(to_bottom,#050816,#070b18,#050816)]" />
+          <div className="pointer-events-none absolute inset-0 -z-10 bg-[radial-gradient(circle_at_top,rgba(37,99,235,0.18),transparent_35%),radial-gradient(circle_at_80%_20%,rgba(56,189,248,0.10),transparent_25%),linear-gradient(to_bottom,#050816,#070b18,#050816)]" />
 
-            <div className="pointer-events-none absolute inset-0 -z-10 bg-grid-pattern bg-[size:38px_38px] opacity-[0.08]" />
+          <div className="pointer-events-none absolute inset-0 -z-10 bg-grid-pattern bg-[size:38px_38px] opacity-[0.08]" />
 
-            <div className="pointer-events-none absolute left-[-10%] top-[-5%] -z-10 h-[26rem] w-[26rem] rounded-full bg-primary/20 blur-3xl animate-glowPulse" />
-            <div className="pointer-events-none absolute bottom-[-8%] right-[-8%] -z-10 h-[24rem] w-[24rem] rounded-full bg-primary-glow/15 blur-3xl animate-glowPulse" />
+          <div className="pointer-events-none absolute left-[-10%] top-[-5%] -z-10 h-[26rem] w-[26rem] rounded-full bg-primary/20 blur-3xl animate-glowPulse" />
+          <div className="pointer-events-none absolute bottom-[-8%] right-[-8%] -z-10 h-[24rem] w-[24rem] rounded-full bg-primary-glow/15 blur-3xl animate-glowPulse" />
 
-            {children}
-          </div>
-        </ClerkProvider>
+          {children}
+        </div>
       </body>
     </html>
   );

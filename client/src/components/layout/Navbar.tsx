@@ -4,7 +4,6 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { usePathname } from "next/navigation";
 import { Sparkles, FileText, Play, BarChart3, History, LayoutDashboard } from "lucide-react";
-import AuthButtons from "@/components/auth/AuthButtons";
 
 const navItems = [
   { label: "Dashboard", href: "/", icon: LayoutDashboard },
@@ -70,7 +69,6 @@ export default function Navbar() {
 
         <div className="flex items-center gap-4">
           <div className="h-6 w-px bg-white/10 hidden md:block mx-2" />
-          <AuthButtons />
         </div>
       </div>
     </motion.header>

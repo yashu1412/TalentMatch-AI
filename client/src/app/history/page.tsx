@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import { Clock, FileText, Target, TrendingUp, User, Trash2, ChevronRight, Loader2 } from "lucide-react";
 import GlassCard from "@/components/shared/GlassCard";
-import AuthenticatedContent from "@/components/auth/AuthenticatedContent";
 import { useHistory } from "@/hooks/useHistory";
 
 export default function HistoryPage() {
@@ -44,24 +43,7 @@ export default function HistoryPage() {
           </p>
         </motion.div>
 
-        <AuthenticatedContent fallback={
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="text-center py-20"
-          >
-            <GlassCard className="max-w-md mx-auto p-8 text-center">
-              <User className="w-16 h-16 text-primary-glow mx-auto mb-4" />
-              <h3 className="text-xl font-semibold text-text-primary mb-2">
-                Sign In Required
-              </h3>
-              <p className="text-text-secondary mb-6">
-                Please sign in to view your matching history and track your progress.
-              </p>
-            </GlassCard>
-          </motion.div>
-        }>
-          {loading ? (
+        {loading ? (
             <div className="flex flex-col items-center justify-center py-20">
               <Loader2 className="w-12 h-12 text-primary-glow animate-spin mb-4" />
               <p className="text-text-secondary">Loading your history...</p>
@@ -216,7 +198,6 @@ export default function HistoryPage() {
               </div>
             </>
           )}
-        </AuthenticatedContent>
       </div>
     </div>
   );

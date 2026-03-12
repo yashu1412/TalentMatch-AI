@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useEffect } from 'react';
-import { useAuth } from '@clerk/nextjs';
 import { apiClient } from '@/lib/api';
 
 export interface HistoryEntry {
@@ -18,23 +17,16 @@ export interface HistoryEntry {
 }
 
 export function useHistory() {
-  const { isSignedIn, userId } = useAuth();
   const [history, setHistory] = useState<HistoryEntry[]>([]);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
-  // Load history when user signs in
+  // Load history on mount
   useEffect(() => {
-    if (isSignedIn && userId) {
-      loadHistory();
-    } else {
-      setHistory([]);
-    }
-  }, [isSignedIn, userId]);
+    loadHistory();
+  }, []);
 
   const loadHistory = async () => {
-    if (!isSignedIn) return;
-
     setLoading(true);
     setError(null);
 
@@ -54,8 +46,6 @@ export function useHistory() {
   };
 
   const saveToHistory = async (matchData: any): Promise<boolean> => {
-    if (!isSignedIn) return false;
-
     try {
       const response = await apiClient.saveToHistory(matchData);
       if (response.success) {
@@ -74,8 +64,6 @@ export function useHistory() {
   };
 
   const deleteEntry = async (entryId?: string): Promise<boolean> => {
-    if (!isSignedIn) return false;
-
     try {
       const response = await apiClient.deleteHistoryEntry(entryId);
       if (response.success) {
@@ -105,6 +93,6 @@ export function useHistory() {
     saveToHistory,
     deleteEntry,
     clearHistory,
-    canSave: isSignedIn
+    canSave: true
   };
 }
