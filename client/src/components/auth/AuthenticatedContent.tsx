@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { Show } from "@clerk/nextjs";
+import { SignedIn, SignedOut } from "@clerk/nextjs";
 
 interface AuthenticatedContentProps {
   children: React.ReactNode;
@@ -20,8 +20,13 @@ export default function AuthenticatedContent({ children, fallback }: Authenticat
   }
 
   return (
-    <Show when="signed-in" fallback={fallback}>
-      {children}
-    </Show>
+    <>
+      <SignedIn>
+        {children}
+      </SignedIn>
+      <SignedOut>
+        {fallback || null}
+      </SignedOut>
+    </>
   );
 }
