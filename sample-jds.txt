@@ -1,0 +1,1310 @@
+SAMPLE JOB DESCRIPTIONS - TalentMatch AI Assignment
+
+================================================================================
+SAMPLE 1: Riverside Research - Scientific Programmer/Software Engineer
+================================================================================
+
+Riverside Research is an independent National Security Nonprofit
+dedicated to research and development in the national interest. We
+provide high-end technical services, research and development, and
+prototype solutions to some of the country's most challenging technical
+problems.
+All Riverside Research opportunities require U.S. Citizenship.
+
+Position Overview
+Riverside Research's Applied Mathematics and Physics Solutions group is
+seeking a Scientific Programmer/Software Engineer to support
+development of high-performance large scale scientific simulation codes.
+The candidate will implement and test new techniques that advance the
+state-of-the-art in defense industry computational electromagnetic (CEM)
+tools. Work will be performed in collaboration with a diverse team, with
+backgrounds in CEM, physics, computer science, electrical engineering,
+applied mathematics, and high-performance computing (HPC) at our
+facilities in Ohio (Dayton), New York (NYC), and Illinois (Champaign).
+
+Responsibilities
+Job Responsibilities :
+• Supports all aspects of the software development lifecycle from
+requirements, design, development, documentation, testing
+(validation and verification) and debugging efficient scientific
+software applications
+• Maintains code quality by participating in peer reviews of software
+and helping develop unit tests, verification and validation test
+plans, and performing validation and verification
+• Applies new methods, algorithms, or processes, and evaluates
+and communicates conclusions
+• Assists in establishing and maintaining standards and best
+practices for software development
+• Evaluates new industry standards and best practices for suitable
+adoption
+• Becomes a subject matter expert in computational methods,
+software engineering, high performance computing, applied
+mathematics/physics, and/or modeling and simulation
+• Other duties as assigned
+
+Qualifications
+Required Qualifications :
+• Ability to obtain and maintain a Top Secret/SCI Security Clearance
+• Education and Experience:
+• Degree in Computer Science, Software Engineering,
+Computational Science or closely related field with software
+development experience
+• Bachelor's with 5+ years of experience, or
+• Master's with 3+ years of experience
+• PhD with 0+ years of experience
+• Relevant years of experience may be substituted in lieu of a
+degree.
+• Applied programming experience with low-level languages like C,
+C++ and/or Fortran
+• Applied software development on and for Linux or other Unix-like
+systems
+• Applied experience coding with Python, Unix shell scripting and
+similar languages for software development
+• Experienced with version control software applications
+• Ability to work independently and collaboratively with a team
+• Excellent interpersonal and communications skills, written and
+verbal
+• Willingness to learn and perform other duties as assigned
+• Ability to travel (less than 10%)
+
+Desired Qualifications
+• Active Security Clearance, TS/SCI(with poly preferred)
+• Experience working collaboratively on software development
+• Experience with the full software development lifecycle (SDLC)
+• Experience with parallel programming on high-performance
+computers (MPI and/or OpenMP)
+• Experience developing cross-platform (Windows and Linux)
+software
+• Additional STEM degree in physics, electrical engineering, or
+applied mathematics or experience developing software for
+scientific applications
+• Familiarity with linear algebra and numerical solutions techniques
+or numerical algorithms
+• Familiarity with electromagnetic wave theory
+
+Global Comp
+$180,000 - $220,000 This represents the typical compensation range for
+this position based on experience, location and other factors.
+
+Closing Statement
+Riverside Research Institute is a not-for-profit, technology-oriented
+defense company, where service to our customers and support of our
+staff is our overall mission. Riverside is an affirmative action-equal
+opportunity employer and complies with all applicable federal, state, and
+local laws regarding recruitment and hiring. Riverside offers
+comprehensive compensation and benefit packages to our employees.
+Riverside bases its employment decisions solely on technical experience,
+qualifications and other job-related criteria related to our organizational
+purpose as a not-for-profit company, and without regard to race, color,
+religion, age, sex marital status, sexual orientation, national origin,
+physical or mental disability, veteran's status or any other status legally
+protected by applicable federal, state, and local law.
+
+================================================================================
+SAMPLE 2: Capgemini - Software Engineer
+================================================================================
+
+Choosing Capgemini means choosing a company where you will be
+empowered to shape your career in the way you'd like, where you'll be
+supported and inspired by a collaborative community of colleagues
+around the world, and where you'll be able to reimagine what's possible.
+Join us and help the world's leading organizations unlock the value of
+technology and build a more sustainable, more inclusive world.
+
+Job Description
+Should have 7 years of strong handson experience with Core Java Spring
+bootShould have 4 years of strong handson experience with Angular or
+React
+Hands On experience Relational DatabaseMicrosoft SQL Server UDBDB2
+or No SQL is required
+Should have strong hands on experience working on Microservices Kafka
+REST API Development experience
+Hands on experience working with containerization technologies Docker
+Kubernetes
+Experience in modernizingrewriting legacy application to modernized
+distributed platforms
+Core Banking Or FinancialWealth Management Domain Working
+Experience Required
+
+Good to have
+Python experience
+AlML exposure is valuable
+Experience in Cloud platforms Azure etc
+Experience in DevOps pipeline CICD practice any tools eg Jenkinsteam
+city"
+
+Works in the area of Software Engineering, which encompasses the
+development, maintenance and optimization of software solutions/
+applications.1. Applies scientific methods to analyse and solve software
+engineering problems.2. He/she is responsible for the development and
+application of software engineering practice and knowledge, in research,
+design, development and maintenance.3. His/her work requires the
+exercise of original thought and judgement and the ability to supervise the
+technical and administrative work of other software engineers.4. The
+software engineer builds skills and expertise of his/her software
+engineering discipline to reach standard software engineer skills
+expectations for the applicable role, as defined in Professional
+Communities.5. The software engineer collaborates and acts as team
+player with other software engineers and stakeholders.
+
+The base compensation range for this role in the posted location is: 61087
+- 104364
+Capgemini provides compensation range information in accordance with
+applicable national, state, provincial, and local pay transparency laws. The
+base compensation range listed for this position reflects the minimum and
+maximum target compensation Capgemini, in good faith, believes it may
+pay for the role at the time of this posting. This range may be subject to
+change as permitted by law.
+
+The actual compensation offered to any candidate may fall outside of the
+posted range and will be determined based on multiple factors legally
+permitted in the applicable jurisdiction.
+
+These may include, but are not limited to: Geographic location, Education
+and qualifications, Certifications and licenses, Relevant experience and
+skills, Seniority and performance, Market and business consideration,
+Internal pay equity.
+
+It is not typical for candidates to be hired at or near the top of the
+posted compensation range.
+
+In addition to base salary, this role may be eligible for additional
+compensation such as variable incentives, bonuses, or commissions,
+depending on the position and applicable laws.
+
+Capgemini offers a comprehensive, non-negotiable benefits package to all
+regular, full-time employees. In the U.S. and Canada, available benefits are
+determined by local policy and eligibility and may include:
+• Paid time off based on employee grade (A-F), defined by policy:
+Vacation: 12-25 days, depending on grade, Company paid
+holidays, Personal Days, Sick Leave
+• Medical, dental, and vision coverage (or provincial healthcare
+coordination in Canada)
+• Retirement savings plans (e.g. 401(k) in the U.S., RRSP in Canada)
+• Life and disability insurance
+• Employee assistance programs
+• Other benefits as provided by local policy and eligibility
+
+Important Notice: Compensation (including bonuses, commissions, or
+other forms of incentive pay) is not considered earned, vested, or payable
+until it becomes due under the terms of applicable plans or agreements
+and is subject to Capgemini's discretion, consistent with applicable laws.
+
+The Company reserves the right to amend or withdraw compensation
+programs at any time, within the limits of applicable legislation.
+
+Disclaimers
+Capgemini is an Equal Opportunity Employer encouraging inclusion in the
+workplace. Capgemini also participates in the Partnership Accreditation in
+Indigenous Relations (PAIR) program which supports meaningful
+engagement with Indigenous communities across Canada by promoting
+fairness, accessibility, inclusion and respect. We value the rich cultural
+heritage and contributions of Indigenous Peoples and actively work to
+create a welcoming and respectful environment. All qualified applicants
+will receive consideration for employment without regard to race, national
+origin, gender identity/expression, age, religion, disability, sexual
+orientation, genetics, veteran status, marital status or any other
+characteristic protected by law.
+
+This is a general description of the Duties, Responsibilities and
+Qualifications required for this position. Physical, mental, sensory or
+environmental demands may be referenced in an attempt to communicate the
+manner in which this position traditionally is performed. Whenever
+necessary to provide individuals with disabilities an equal employment
+opportunity, Capgemini will consider reasonable accommodations that
+might involve varying job requirements and/or changing the way this job is
+performed, provided that such accommodation does not pose an undue
+hardship.
+
+Capgemini is a global business and technology transformation partner,
+helping organizations to accelerate their dual transition to a digital and
+sustainable world, while creating tangible impact for enterprises and
+society. It delivers end-to-end services and solutions leveraging strengths
+from strategy and design to engineering, all fueled by its market leading
+capabilities in AI, generative AI, cloud and data, combined with its deep
+industry expertise and partner ecosystem.
+
+================================================================================
+SAMPLE 3: Adobe - Software Engineer
+================================================================================
+
+Our Company
+Changing the world through digital experiences is what Adobe's all about.
+We give everyone—from emerging artists to global brands—everything
+they need to design and deliver exceptional digital experiences! We're
+passionate about empowering people to create beautiful and powerful
+images, videos, and apps, and transform how companies interact with
+customers across every screen.
+
+We're on a mission to hire the very best and are committed to creating
+exceptional employee experiences where everyone is respected and has
+access to equal opportunity. We realize that new ideas can come from
+everywhere in the organization, and we know the next big idea could be
+yours!
+
+The Opportunity
+Adobe is seeking talented and passionate Software Engineer across all
+organizations to help plan, design, develop, and test software systems or
+applications for software enhancements and new products used in local,
+networked, cloud-based or Internet-related computer programs and
+products.
+
+What You'll Do
+• Develop high-performance, reliable, testable, and maintainable
+code.
+• Participating in all aspects of software development activities,
+including design, coding, code review, testing, bug fixing, and
+code/API documentation.
+• Collaborate with engineers and participate in daily or weekly standups and meetings.
+• Grow with the support of your team and help others on the team
+grow by providing thoughtful feedback and uplifting those around
+you.
+• Work both independently and collaboratively within a fast-paced
+development team, with clear, positive, and constructive
+communication.
+• Additional responsibilities as needed based on the specific role or
+team.
+
+What You Need To Succeed
+• Bachelor's or Master's in Computer Science, Computer
+Engineering, Electrical Engineering, or equivalent experience
+required
+• 5-7 + years of relevant experience
+• Proficient in programming languages such as Python, Java, C++,
+etc.
+• Strong technical background with analytical and problem-solving
+skills.
+• Interest or experience in AI/ML concepts, with exposure to AI tools,
+is a plus.
+• Familiarity with client-side frameworks and libraries like React,
+Angular, jQuery is a plus.
+• Excellent problem-solving and debugging skills, and direct
+experience with DevOps in a SaaS environment is a plus.
+• Customer-focused and have a real passion for quality and
+engineering excellence at scale.
+• Excellent communication and collaboration skills.
+
+Our compensation reflects the cost of labor across several U.S.
+geographic markets, and we pay differently based on those defined
+markets. The U.S. pay range for this positionis $139,000 -- $257,550
+annually. Paywithin this range varies by work location and may also
+depend on job-related knowledge, skills, and experience. Your recruiter
+can share more about the specific salary range for the job location during
+the hiring process. In California, the pay range for this position is $177,900
+- $257,550
+
+At Adobe, for sales roles starting salaries are expressed as total target
+compensation (TTC = base + commission), and short-term incentives are
+in the form of sales commission plans. Non-sales roles starting salaries are
+expressed as base salary and short-term incentives are in the form of
+the Annual Incentive Plan (AIP).
+
+In addition, certain roles may be eligible for long-term incentives in
+the form of a new hire equity award.
+
+State-Specific Notices:
+California:
+Fair Chance Ordinances
+Adobe will consider qualified applicants with arrest or conviction records
+for employment in accordance with state and local laws and "fair chance"
+ordinances.
+
+Colorado:
+Application Window Notice
+If this role is open to hiring in Colorado (as listed on the job posting), the
+application window will remain open until at least the date and time stated
+above in Pacific Time, in compliance with Colorado pay transparency
+regulations. If this role does not have Colorado listed as a hiring location,
+no specific application window applies, and the posting may close at any
+time based on hiring needs.
+
+Massachusetts:
+Massachusetts Legal Notice
+It is unlawful in Massachusetts to require or administer a lie detector test
+as a condition of employment or continued employment. An employer
+who violates this law shall be subject to criminal penalties and civil liability.
+
+Adobe is proud to be an Equal Employment Opportunity employer. We do
+not discriminate based on gender, race or color, ethnicity or national
+origin, age, disability, religion, sexual orientation, gender identity or
+expression, veteran status, or any other applicable characteristics
+protected by law. Learn more.
+
+Adobe aims to make Adobe.com accessible to any and all users. If you
+have a disability or special need that requires accommodation to navigate
+our website or complete the application process, email
+accommodations@adobe.com or call (408) 536-3015.
+
+================================================================================
+SAMPLE 4: Astra - Software Engineer
+================================================================================
+
+Astra's mission is to improve life on Earth from space by creating a
+healthier and more connected planet. Today, Astra offers one of the lowest
+cost-per-launch dedicated orbital launch services, and one of the
+industry's leading flight-proven electric propulsion systems for satellites,
+the Astra Spacecraft Engine.
+
+The Team
+Software is at the forefront of how we operate at Astra. As a vertically
+integrated rocket company, every decision we make is data-driven: from
+CAD designs to the launch of a rocket, we look for patterns and
+relationships at each stage of our design, manufacturing, test, and
+operations. This unprecedented level of integration requires equally
+vertically integrated software that gives insight into topics that matter,
+guiding our decisions.
+
+The software team has always operated as a small, versatile team that
+punches above its weight. As we grow we want to maintain those cross
+functional technical skillsets and embrace diversity in backgrounds
+because sometimes writing the best rocket company software in the
+world is like programming a synthesizer, and other times it is like sanding
+the rust off of an old cabinet.
+
+The Opportunity
+As a Software Engineer at Astra, you'll build systems that support rocket
+testing, manufacturing, and launch operations. You'll work closely with
+hardware and operations teams to develop tools for automation, data
+collection, and real-time analysis. This is a high-impact role with broad
+technical scope and direct influence on critical engineering workflows.
+
+How You'll Fulfill Your Mission
+• Develop and maintain Python-based systems for automating
+rocket testing, manufacturing, and launch operations.
+• Build tools for real-time telemetry data collection and analysis to
+support rapid decision-making.
+• Collaborate with teams across engineering, manufacturing, and
+launch to identify software needs and ship impactful solutions.
+• Contribute to internal tools, APIs (REST/gRPC), and cloud-native
+infrastructure that enable fast iteration and high reliability.
+• Troubleshoot and improve systems that must operate under high
+complexity and extreme conditions.
+
+Why We Value You
+• 3+ years of experience in software engineering, including
+production-level Python development
+• Solid understanding of system design, data pipelines, and APIs
+• Experience with cloud-native services (e.g., AWS, Kubernetes,
+Docker) and telemetry or time-series systems
+• Familiarity with REST/gRPC APIs and common data serialization
+formats (e.g., JSON, YAML, Protobuf)
+• Proven ability to deliver software in high-stakes or cross-functional
+environments
+• Strong communication skills and a proactive mindset
+• Bachelor's degree in Computer Science, Engineering, or a related
+field (or equivalent practical experience)
+
+Desired Multipliers
+• Experience in aerospace, robotics, or hardware-software systems
+• Exposure to TypeScript, Go, or C/C++
+• Open-source contributions or relevant side projects
+
+The pay range for this role is: $130,000 - $160,000 per year
+The stated compensation range reflects only the targeted base salary
+range in the San Francisco Bay Area and excludes additional earnings
+such as bonus and benefits. If your salary requirements fall outside of the
+range, we still encourage you to apply.
+
+You do not need to match every listed expectation to apply for this
+position. Here at Astra, we know that diverse perspectives foster the
+innovation we need to be successful, and we are committed to building a
+team that encompasses a variety of backgrounds, experiences, and skills.
+
+San Francisco Applicants: Astra will consider applicants with arrest and
+conviction records (criminal histories) in a manner consistent with the San
+Francisco Fair Chance Ordinance.
+
+ITAR Requirements: This position requires compliance with U.S.
+Government space technology trade restrictions, specifically the
+International Trafficking in Arms Regulations (ITAR), Export Administration
+Regulations (EAR) and additional regulations governing satellite, launch
+vehicle, missile, and other related technologies. All jobs restricted by
+these regulations will be contingent upon the applicant's status as a
+documented U.S. Person or their ability to receive a trade license from the
+cognizant government agency; in addition to any required company
+background checks and in compliance with applicable U.S. and California
+laws. Similarly, positions requiring the ability to work on government
+contracts or a security clearance are also contingent upon the applicants
+ability to receive the appropriate clearance and be allowed to work on
+U.S. government contracts.
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is
+governed on the basis of merit, competence and qualifications and will
+not be influenced in any manner by race, color, religion, gender, national
+origin/ethnicity, veteran status, disability status, age, sexual orientation,
+gender identity, marital status, mental or physical disability or any other
+legally protected status.
+
+Applicants wishing to view a copy of SpaceX's Affirmative Action Plan for
+veterans and individuals with disabilities, or applicants requiring
+reasonable accommodation to apply for this position should reach out to
+EEOCompliance@spacex.com.
+
+================================================================================
+SAMPLE 5: Lockheed Martin Space - Software Engineer
+================================================================================
+
+Basic Qualifications
+Programming experience required
+Be able to understand SV CONOPS
+Be able to troubleshoot issues with minimum supervision
+Be able to collaborate with others
+
+Job Description
+Space is a critical domain, connecting our
+technologies, our security and our humanity. While
+others view space as a destination, we see it as a
+realm of possibilities, where we can do more — we
+can innovate, invest, inspire and integrate our
+capabilities to transform the future.
+
+At Lockheed Martin Space, we aim to harness the full
+potential of space to cultivate innovation, reduce
+costs, and push the boundaries of what technology
+can achieve. We're creating future-ready solutions,
+focusing on resiliency and urgency through our 21st
+Century Security® vision. We're erasing boundaries and
+forming partnerships across industries and
+around the world. We're advancing spacecraft and the
+workforce to fuel the next generation. And we're
+reimagining how space can connect us, ensuring
+security and prosperity.
+
+Join us in shaping a new era in space and find a
+career that's built for you.
+
+This position is contingent on program award expected Q2 2026
+
+This position is for a Software Engineer
+supporting the Space Software Product Line Mobile
+User Objective System Service Life Extension (MUOS
+SLE) Software Systems Team. This role will support
+Software Systems for MUOS SLE. Responsibilities could include working
+in a collaborative environment interacting
+with peers and occasional customer interactions. This
+includes supporting the development of Specifications and Interface
+Control Documents, test scenarios to test new capability or verify defect
+fix, mission problems or questions in computer language for solutions by
+means of data processing equipment. Supporting informal and formal test
+events, ensuring we meet customer standards and quality, and working in
+a lab environment.
+
+Desired Skills
+Python
+Unit testing
+Agile programming
+Full stack development
+STARS / EASY framework
+Software testing
+VM Infrastructure
+
+Other Important Information
+By applying to this job, you are expressing interest in this position and
+could be considered for other career opportunities where similar skills and
+requirements have been identified as a match. Should this match be
+identified you may be contacted for this and future openings.
+
+Ability to work remotely
+Onsite Full-time: The work associated with this position will be performed
+onsite at a designated Lockheed Martin facility.
+
+================================================================================
+SAMPLE 6: Applied Materials - Software Engineer
+================================================================================
+
+Who We Are
+Applied Materials is a global leader in materials engineering solutions
+used to produce virtually every new chip and advanced display in the
+world. We design, build and service cutting-edge equipment that helps
+our customers manufacture display and semiconductor chips – the brains
+of devices we use every day. As the foundation of the global electronics
+industry, Applied enables the exciting technologies that literally connect
+our world – like AI and IoT. If you want to push the boundaries of materials
+science and engineering to create next generation technology, join us to
+deliver material innovation that changes the world.
+
+What We Offer
+Salary:
+$176,000.00 - $242,000.00
+Location:
+Santa Clara,CA
+
+You'll benefit from a supportive work culture that encourages you to learn,
+develop, and grow your career as you take on challenges and drive
+innovative solutions for our customers. We empower our team to push the
+boundaries of what is possible—while learning every day in a supportive
+leading global company. Visit our Careers website to learn more.
+
+At Applied Materials, we care about the health and wellbeing of our
+employees. We're committed to providing programs and support that
+encourage personal and professional growth and care for you at work, at
+home, or wherever you may go. Learn more about our benefits.
+
+As a Software Engineer at Applied Materials, you'll dive deep into groundbreaking
+technologies—like machine learning and AI—to craft novel
+software solutions that solve our customers' high-value problems. Our
+Software Engineers are responsible for designing, prototyping,
+developing, and debugging software solutions for semiconductor
+equipment components and devices to ensure quality and functionality.
+You'll develop software documentation and test procedures, troubleshoot
+software problems, and communicate with internal customers to
+understand project requirements. As part of our team, you'll contribute
+your expertise in intricate systems, deciphering code, and anticipating
+software behaviors to ensure Applied remains the leader in the
+semiconductor and display sectors.
+
+Role Responsibilities:
+• Design and develop code for large scale complex software
+solutions for semiconductor equipment components and device
+with limited supervision
+• Lead and execute complex software projects
+• Define software specifications and test plan for test benches and
+the lab tools
+• Communicate with internal and external customers for requirement
+analysis, project schedule and software troubleshooting
+• Troubleshoot a wide range of complex, difficult software problems;
+perform tests on code and enhancements
+
+Minimum Qualifications:
+• Bachelor's degree in Computer Science, Electrical Engineering,
+Mathematics, Physics, or a related field.
+• 7–10 years of related experience
+• Extensive experience with controlling instrument/equipment
+requiring high precision and high repeatability
+
+Preferred Qualifications:
+• PhD degree in a related field
+• Proficient in Modern C++, Python, C#/Java/Rust, machine learning,
+web service architecture, signal processing, computer vision,
+robotics, user interface design, mathematical modelling, numerical
+methods for physical simulation, GPU programming
+• Extensive experience with development on embedded system and
+PyTorch
+• Experience with FPGA is preferred
+• Leadership skills to lead moderate-sized projects as needed
+
+Additional Information
+Time Type:
+Full time
+Employee Type:
+Assignee / Regular
+Travel:
+Yes, 10% of the Time
+Relocation Eligible:
+Yes
+
+The salary offered to a selected candidate will be based on multiple
+factors including location, hire grade, job-related knowledge, skills,
+experience, and with consideration of internal equity of our current team
+members. In addition to a comprehensive benefits package, candidates
+may be eligible for other forms of compensation such as participation in a
+bonus and a stock award program, as applicable.
+
+For all sales roles, the posted salary range is the Target Total Cash (TTC)
+range for the role, which is the sum of base salary and target bonus
+amount at 100% goal achievement.
+
+Applied Materials is an Equal Opportunity Employer. Qualified applicants
+will receive consideration for employment without regard to race, color,
+national origin, citizenship, ancestry, religion, creed, sex, sexual
+orientation, gender identity, age, disability, veteran or military status, or
+any other basis prohibited by law.
+
+In addition, Applied endeavors to make our careers site accessible to all
+users. If you would like to contact us regarding accessibility of our website
+or need assistance completing the application process, please contact us
+via e-mail at Accommodations_Program@amat.com, or by calling our HR
+Direct Help Line at 877-612-7547, option 1, and following the prompts to
+speak to an HR Advisor. This contact is for accommodation requests only
+and cannot be used to inquire about the status of applications.
+
+================================================================================
+SAMPLE 7: Meta - Software Engineer, Infrastructure
+================================================================================
+
+Meta is seeking talented engineers to join our teams in building cuttingedge products that connect billions of people around the world. As a
+member of our team, you will have the opportunity to work on complex
+technical problems, build new features, and improve existing products
+across various platforms, including mobile devices and web applications.
+
+Our teams are constantly pushing the boundaries of user experience, and
+we're looking for passionate individuals who can help us advance the way
+people connect globally. If you're interested in joining a world-class team
+of industry veterans and working on exciting projects that have a
+significant impact, we encourage you to apply.
+
+Software Engineer, Infrastructure Responsibilities:
+• Collaborate with cross-functional teams (product, design,
+operations, infrastructure) to build innovative application
+experiences
+• Implement custom user interfaces using latest programming
+techniques and technologies
+• Develop reusable software components for interfacing with backend platforms
+• Analyze and optimize code for quality, efficiency, and performance
+• Lead complex technical or product efforts and provide technical
+guidance to peers
+• Architect efficient and scalable systems that drive complex
+applications
+• Identify and resolve performance and scalability issues
+• Work on a variety of coding languages and technologies
+• Establish ownership of components, features, or systems with
+expert end-to-end understanding
+
+Minimum Qualifications:
+• Currently has, or is in the process of obtaining a Bachelor's degree
+in Computer Science, Computer Engineering, relevant technical
+field, or equivalent practical experience. Degree must be
+completed prior to joining Meta
+• 2+ years of programming experience in a relevant language OR a
+PhD + 9 months programming experience in a relevant language
+• Track record of setting technical direction for a team, driving
+consensus and successful cross-functional partnerships
+• Experience building maintainable and testable code bases,
+including API design and unit testing techniques
+
+Preferred Qualifications:
+• Experience owning a component, feature or system
+• Experience improving quality through thoughtful code reviews,
+appropriate testing, proper rollout, monitoring, and proactive
+changes
+• Experience in programming languages such as C, C++, Java
+• Exposure to architectural patterns of large scale software
+applications
+• Experience designing, analyzing and improving efficiency,
+scalability, and stability of various system resources
+• 2+ years of relevant experience building large-scale infrastructure
+applications or similar experience
+• 1+ years of experience identifying, designing and completing
+medium to large features independently without guidance
+• Experience with scripting languages such as Python, Javascript or
+Hack
+
+About Meta:
+Meta builds technologies that help people connect, find communities, and
+grow businesses. When Facebook launched in 2004, it changed the way
+people connect. Apps like Messenger, Instagram and WhatsApp further
+empowered billions around the world. Now, Meta is moving beyond 2D
+screens toward immersive experiences like augmented and virtual reality
+to help build the next evolution in social technology. People who choose
+to build their careers by building with us at Meta help shape a future that
+will take us beyond what digital connection makes possible today—
+beyond the constraints of screens, the limits of distance, and even the
+rules of physics.
+
+Meta is proud to be an Equal Employment Opportunity and Affirmative
+Action employer. We do not discriminate based upon race, religion, color,
+national origin, sex (including pregnancy, childbirth, or related medical
+conditions), sexual orientation, gender identity, gender expression,
+transgender status, sexual stereotypes, age, status as a protected
+veteran, status as an individual with a disability, or other applicable
+legally protected characteristics.
+
+We also consider qualified applicants with criminal histories, consistent
+with applicable federal, state and local law.
+
+Meta participates in the E-Verify program in certain locations, as required
+by law. Please note that Meta may leverage artificial intelligence and
+machine learning technologies in connection with applications for
+employment.
+
+Meta is committed to providing reasonable accommodations for
+candidates with disabilities in our recruiting process. If you need any
+assistance or accommodations due to a disability, please let us know at
+accommodations-ext@meta.com.
+
+$58.65/hour to $181,000/year + bonus + equity + benefits
+Individual compensation is determined by skills, qualifications,
+experience, and location. Compensation details listed in this posting
+reflect the base hourly rate, monthly rate, or annual salary only, and do not
+include bonus, equity or sales incentives, if applicable. In addition to base
+compensation, Meta offers benefits. Learn more about benefits at Meta.
+
+================================================================================
+SAMPLE 8: Accenture Federal Services - Software Application Developer/Engineer
+================================================================================
+
+At Accenture Federal Services, nothing matters more than helping the US
+federal government make the nation stronger and safer and life better for
+people.Our 13,000+ people are united in a shared purpose to pursue the
+limitless potential of technology and ingenuity for clients across defense,
+national security, public safety, civilian, and military health organizations.
+
+Join Accenture Federal Services, a technology company within global
+Accenture. Recognized as a Glassdoor Top 100 Best Place to Work, we
+offer a collaborative and caring community where you feel like you belong
+and are empowered to grow, learn and thrive through hands-on
+experience, certifications, industry training and more.
+
+Join us to drive positive, lasting change that moves missions and the
+government forward!
+
+Job Description
+Software application developer / engineer, supporting the design,
+development, integration, maintenance and enhancement of custom and/
+or systems.
+
+Must have:
+• Experience with software development
+• Bachelors degree
+
+Security Clearance:
+• Active TS/SCI with polygraph clearance
+
+As required by local law, Accenture Federal Services provides reasonable
+ranges of compensation for hired roles based on labor costs in the states
+of California, Colorado, Hawaii, Illinois, Maryland, Massachusetts,
+Minnesota, New Jersey, New York, Washington, Vermont, the District of
+Columbia, and the city of Cleveland. The base pay range for this position
+in these locations is shown below. Compensation for roles at Accenture
+Federal Services varies depending on a wide array of factors, including
+but not limited to office location, role, skill set, and level of experience.
+
+Accenture Federal Services offers a wide variety of benefits. You can find
+more information on benefits here. We accept applications on an on-going
+basis and there is no fixed deadline to apply.
+
+The pay range for the states of California, Colorado, Hawaii, Illinois,
+Maryland, Massachusetts, Minnesota, New Jersey, New York,
+Washington, Vermont, the District of Columbia, and the city of Cleveland
+is:
+$75,500—$131,200 USD
+
+What We Believe
+As a company wholly dedicated to serving the US federal government, we
+bring together the best talent to help reinvent how federal agencies
+operate and deliver greater value for their mission and the American
+people. We have an unwavering commitment to creating a culture in which
+all our people are respected, feel a sense of belonging, and have equal
+opportunity. This is grounded in our core values and our experience that
+hiring and developing great people who reflect different perspectives,
+experiences, and backgrounds is key to driving innovation and delivering
+the results that our clients and the country count on.
+
+Equal Employment Opportunity Statement
+We believe that no one should be discriminated against because of their
+differences. All employment decisions shall be made without regard to
+age, race, creed, color, religion, sex, national origin, ancestry, disability
+status, veteran status, sexual orientation, gender identity or expression,
+genetic information, marital status, citizenship status or any other basis as
+protected by federal, state, or local law. Our rich diversity makes us more
+innovative, more competitive, and more creative, which helps us better
+serve our clients and our communities. For details, view a copy of the
+Accenture Federal Services Equal Opportunity Policy Statement.
+
+Accenture Federal Services is an Equal Employment Opportunity
+employer. Additionally, as an Affirmative Action Employer for Veterans and
+Individuals with Disabilities, Accenture Federal Services is committed to
+providing veteran employment opportunities to our service men and
+women.
+
+Requesting An Accommodation
+Accenture Federal Services is committed to providing equal employment
+opportunities for persons with disabilities or religious observances,
+including reasonable accommodation when needed. If you are hired by
+Accenture Federal Services and require accommodation to perform the
+essential functions of your role, you will be asked to participate in our
+reasonable accommodation process. Accommodations made to facilitate
+the recruiting process are not a guarantee of future or continued
+accommodations once hired.
+
+If you are being considered for employment opportunities with Accenture
+Federal Services andneed an accommodation for a disability or religious
+observanceduring the interview process or for the job you are interviewing
+for, please speak with your recruiter.
+
+Other Employment Statements
+Applicants for employment in the US must have work authorization that
+does not now or in the future require sponsorship of a visa for employment
+authorization in the United States.
+
+Candidates who are currently employed by a client of Accenture Federal
+Services or an affiliated Accenture business may not be eligible for
+consideration.
+
+Job candidates will not be obligated to disclose sealed or expunged
+records of conviction or arrest as part of the hiring process.
+
+The Company will not discharge or in any other manner discriminate
+against employees or applicants because they have inquired about,
+discussed, or disclosed their own pay or the pay of another employee or
+applicant. Additionally, employees who have access to the compensation
+information of other employees or applicants as a part of their essential job
+functions cannot disclose the pay of other employees or applicants to
+individuals who do not otherwise have access to compensation
+information, unless the disclosure is (a) in response to a formal complaint
+or charge, (b) in furtherance of an investigation, proceeding, hearing, or
+action, including an investigation conducted by the employer, or (c)
+consistent with the Company's legal duty to furnish information.
+
+California requires additional notifications for applicants and employees. If
+you are a California resident, live in or plan to work from Los Angeles
+County upon being hired for this position, please click here for additional
+important information.
+
+================================================================================
+SAMPLE 9: SpaceX - Full Stack Software Engineer (Build Reliability)
+================================================================================
+
+SpaceX was founded under the belief that a future where humanity is out
+exploring the stars is fundamentally more exciting than one where we are
+not. Today SpaceX is actively developing the technologies to make this
+possible, with the ultimate goal of enabling human life on Mars.
+
+FULL STACK SOFTWARE ENGINEER (BUILD RELIABILITY)
+We are seeking a Full Stack Software Engineer to design, develop, and
+continuously improve software solutions ensuring our vehicles can be built
+and flown reliably. This involves streamlining quality control processes,
+simplifying new product introduction, ensuring product traceability, as well
+as optimizing rocket and spacecraft reusability.
+
+As a Full Stack Software Engineer on our Build Reliability team, you will
+engage with other SpaceX engineers to discover the needs of the mission
+and write highly reliable software which turns the mission into reality. You
+will be responsible for the complete life-cycle of the software you create,
+including development, testing, and support. You are the engineer that
+other engineers can count on; you are technical, you attack every problem
+with enthusiasm; you remove hurdles. You are a self-starter, team player,
+have the hunger to venture quickly into unknown areas and code and
+make the system work.
+
+Aerospace experience is not required to be successful here - rather we
+look for smart, motivated, collaborative engineers who love solving
+problems and want to make an impact on a super inspiring mission.
+
+RESPONSIBILITIES:
+• Build highly reliable software solutions that may be used by users
+across SpaceX
+• Own all aspects of software engineering and product development
+• Act as a responsible engineer for various software products
+• Maintain highest standards of excellence, never settle for the
+status quo
+• Deep dive into your users' problems, find efficient solutions
+• Provide strong technical leadership, focus on continuous
+improvement
+• Seek out faults within our application suite or ERP suite and
+implement solutions to improve
+• Track usage of Applications and features and suggest/implement
+features to improve them
+
+BASIC QUALIFICATIONS:
+• Bachelor's degree in computer science, engineering, math, or
+scientific discipline; OR 2+ years of professional experience
+building software in lieu of a degree
+• Experience in full stack development
+
+PREFERRED SKILLS AND EXPERIENCE:
+• 5+ years of experience in web applications development
+• Experience as an architect - proven ability to design and implement
+robust and scalable systems with flexible and scalable UI that
+meets future needs
+• Expertise in C#, .NET, SQL, HTML, CSS, AngularJS, TypeScript
+• Expertise in Python, PostgreSQL
+• Deep understanding of object oriented programming and design
+principles
+• Deep understanding of testing, continuous integration, build,
+deployment & continuous monitoring
+• Experience scaling web applications and optimizing applications
+for performance
+• Solid understanding of UI/UX design to provide intuitive
+applications
+• Great creative and innovative problem-solving skills
+• Initiative and the ability to work independently and collaborate
+within a team
+• Experience developing software for manufacturing, production, or
+quality systems
+
+ADDITIONAL REQUIREMENTS:
+• Ability to work extended hours and weekends as needed
+• Must be willing to travel – up to 10%
+
+Pay Range:
+COMPENSATION AND BENEFITS:
+Software Engineer/Level I: $120,000.00 - $145,000.00/per year
+Software Engineer/Level II: $140,000.00 - $170,000.00/per year
+Your actual level and base salary will be determined on a case-by-case
+basis and may vary based on the following considerations: job-related
+knowledge and skills, education, and experience.
+
+Base salary is just one part of your total rewards package at SpaceX. You
+may also be eligible for long-term incentives, in the form of company
+stock, stock options, or long-term cash awards, as well as potential
+discretionary bonuses and the ability to purchase additional stock at a
+discount through an Employee Stock Purchase Plan. You will also receive
+access to comprehensive medical, vision, and dental coverage, access to
+a 401(k) retirement plan, short and long-term disability insurance, life
+insurance, paid parental leave, and various other discounts and perks.
+
+You may also accrue 3 weeks of paid vacation and will be eligible for 10 or
+more paid holidays per year. Exempt employees are eligible for 5 days of
+sick leave per year.
+
+ITAR REQUIREMENTS:
+• To conform to U.S. Government export regulations, applicant must
+be a (i) U.S. citizen or national, (ii) U.S. lawful, permanent resident
+(aka green card holder), (iii) Refugee under 8 U.S.C.
+• 1157, or (iv) Asylee under 8 U.S.C.
+• 1158, or be eligible to obtain the required authorizations from the
+U.S. Department of State. Learn more about the ITAR here.
+
+SpaceX is an Equal Opportunity Employer; employment with SpaceX is
+governed on the basis of merit, competence and qualifications and will
+not be influenced in any manner by race, color, religion, gender, national
+origin/ethnicity, veteran status, disability status, age, sexual orientation,
+gender identity, marital status, mental or physical disability or any other
+legally protected status.
+
+Applicants wishing to view a copy of SpaceX's Affirmative Action Plan for
+veterans and individuals with disabilities, or applicants requiring
+reasonable accommodation to apply for this position should reach out to
+EEOCompliance@spacex.com.
+
+================================================================================
+SAMPLE 10: Bcore - Software Engineer
+================================================================================
+
+Chantilly, VA
+TS/SCI with Poly
+
+At Bcore, our strength comes from how we deliver impact to the mission.
+Whether it's architecting critical IT solutions, producing actionable
+intelligence, or developing cutting edge technology, we succeed because
+of the expertise, collaboration, and agility of our teams. Our Mission
+Services division combines enterprise IT, cloud solutions, DevSecOps,
+systems engineering, software development, and operational support.
+
+Bcore accelerates decisive advantage for warfighters and intelligence
+professionals by fusing human insight, rapid-fire engineering, precision
+measured outcomes, and relentless grit into mission-ready solutions.
+
+Do you want to join a team that is building tailored technical solutions to
+modernize our government's mission and our client's business? Do you
+have a desire to change how people work? Are you interested in helping
+to protect our nation's cyber interests? Join our growing team supporting
+customer missions as a Software Engineer in Chantilly, Virginia.
+
+Required Qualifications
+• Demonstrated experience with tools used with cloud services.
+• Demonstrated experience establishing stateless implementations
+from architectures in cloud service providers.
+• Demonstrated experience with configuration management and
+data repositories. Demonstrated experience with COTS products
+used in Linux and Windows environments.5. (Mandatory)
+Demonstrated experience using DevOps tools such as, Jenkins,
+Kubernetes, Chef, and Terraform.
+• Demonstrated experience with tools used with cloud services.
+• Demonstrated experience establishing stateless implementations
+from architectures in cloud service providers.
+• Demonstrated experience with configuration management and
+data repositories.
+• Demonstrated experience with COTS products used in Linux and
+Windows environments.
+• Demonstrated experience using DevOps tools such as, Jenkins,
+Kubernetes, Chef, and Terraform.
+
+Desired Qualifications
+• Node JS
+• React
+• MySQL
+• Python
+• Bash
+• Javascript
+• Experience with UI development
+• Experience with Back-end development
+
+BCore is proud to be an equal opportunity workplace. All qualified
+applicants will receive consideration for employment without regard to
+race, color, religion, sex, national origin, disability status, protected
+veteran status, sexual orientation or any other characteristic protected
+by law.
+
+================================================================================
+SAMPLE 11: FishEye Software - C++ Software Engineer
+================================================================================
+
+FishEye Software has an immediate opening for a skilled C++ Software
+Engineer to support the Cooperative Engagement Capability (CEC)
+Program. This program integrates advanced hardware and software to
+streamline radar data flow across naval platforms, enhancing the
+detection, tracking, and response to aerial threats. In this role, you will
+work closely with cross-functional teams to support system integration,
+testing, and validation, helping deliver a unified and accurate tactical
+picture.
+
+This position requires an Active Secret Clearance and is 100% on-site in
+Maynard, MA.
+
+Key Responsibilities
+• Design, implement, and test C++ software for real-time and
+embedded defense systems.
+• Participate in design, code reviews, and verification to ensure high
+quality, reliable software.
+• Collaborate with cross-functional teams to define software
+requirements, interfaces, and integration plans.
+• Troubleshoot, debug, and resolve complex technical challenges
+within multi-threaded and distributed systems.
+• Contribute to ongoing improvements in development tools,
+processes, and coding standards.
+
+Required Skills
+• This position requires an Active Secret Clearance; US Citizenship is
+required.
+• BS in Computer Science, Engineering, or related field
+• Minimum of 4 years of hands-on C++ software development
+experience. We will consider candidates with varying levels of
+experience.
+• Proficiency in Linux-based environments
+• Familiarity with Agile methodologies, Scrum, and CI/CD practices
+• Experience with real-time operating systems (RTOS) and
+embedded programming
+• Proficiency with Git, ClearCase, SVN, or similar version control
+systems
+• Strong analytical, problem-solving, and communication skills
+
+Desired Skills
+• Radar domain knowledge and/or experience in defense/aerospace
+systems
+
+FishEye Software is proud to be recognized as one of the Boston Globe's
+Top Places to Work 2025. We offer a comprehensive benefits package
+featuring medical, dental, and vision insurance; short and long-term
+disability; life insurance; paid vacation time, sick leave and holidays;
+401(k) plan with company match - plus many more exceptional perks!
+
+Salary Range
+The annual salary range for this position is $ 80,000 - $190,000 USD. The
+final salary will be determined based on the selected candidate's
+education, experience, skills, certifications, and other relevant
+qualifications, as well as applicable client or government contractual
+rates.
+
+This position requires eligibility to obtain a DOD Secret Security Clearance;
+US Citizenship is required. For more information visit the DCSA site.
+
+FishEye's passion is building and supporting mission critical software and
+providing real time access to mission critical data. Come as you are, we
+welcome all applicants.
+
+FishEye Software, Inc. is an Equal Opportunity/Affirmative Action
+employer, including individuals with disabilities and protected veterans
+and participates in E-Verify. For more information on our EOE and AAP
+programs, visit www.fisheyesoftware.com/careers.
+
+• Please Note: FishEye does not accept applications from agencies,
+3rd party vendors, or applications with incomplete information.
+FishEye Software may conduct background checks, criminal background
+investigation, and/or security clearance investigation through 3rd party
+organizations.
+
+Salary: $80000 - $190000 per year
+
+================================================================================
+SAMPLE 12: BigBear.ai - Software Engineer
+================================================================================
+
+Overview
+BigBear.ai is seeking a Software Engineer to join an ever-evolving project
+where you will design, develop, and deploy mission-critical tools and
+solutions. This role involves working closely with customers to understand
+and support operational requirements, as well as analyzing large data sets
+to deliver mission-centric insights. You will collaborate with analysts, data
+scientists, and other software engineers to integrate cutting-edge
+technologies and solutions that drive impactful results.
+
+What You Will Do
+• Software Development: Write production-grade software to be
+deployed in operational environments
+• Maintenance & Monitoring: Monitor software performance and
+implement updates as needed
+• Platform Enhancement: Augment the platform with new tools and
+technologies to meet evolving mission needs
+• Code Reviews: Perform thorough code reviews to ensure quality
+and compliance
+• Stakeholder Collaboration: Elicit requirements from stakeholders to
+align solutions with mission objectives
+• Documentation: Write detailed documentation to support
+compliance processes and operational workflows
+
+What You Need To Have
+• Clearance: Must possess and maintain an active TS/SCI w/
+Polygraph
+• Education & Experience: Bachelor's degree in a relevant field, plus
+production-grade software development experience in C/C++,
+Python, and Java
+• Version Control: Familiarity with software version control systems,
+such as Git
+• UNIX/Linux Proficiency: Experience using the command line in
+UNIX or Linux environments
+• Networked Systems: Experience working in multi-node networked
+environments
+
+What We'd Like You To Have
+• Containerization: Experience with Docker or Kubernetes
+• Automation Tools: Familiarity with Ansible for configuration
+management
+• Cloud Hosting: Experience with cloud-based hosting
+environments, such as AWS
+• Continuous Integration: Proficiency with CI tools, such as Jenkins
+
+About BigBear.ai
+BigBear.ai is a leading provider of AI-powered decision intelligence
+solutions for national security, supply chain management, and digital
+identity. Customers and partners rely on Bigbear.ai's predictive analytics
+capabilities in highly complex, distributed, mission-based operating
+environments. Headquartered in McLean, Virginia, BigBear.ai is a public
+company traded on the NYSE under the symbol BBAI. For more information,
+visit https://bigbear.ai/ and follow BigBear.ai on LinkedIn:
+@BigBear.ai and X: @BigBearai.
+
+BigBear.ai is an Equal opportunity employer all protected groups,
+including protected veterans and individuals with disabilities.
+
+================================================================================
+SAMPLE 13: Software Engineer - Mid
+================================================================================
+
+• Design, develop, test, and manage application development
+projects in support of IT infrastructure
+• Integrate third-party components and introduce new custom
+capabilities
+• Modify existing code and recommend process improvements
+• Automate operations and maintenance tasks
+• Develop and implement technical efforts for large-scale data
+processing and advanced analytics
+• Participate in all aspects of the software development life cycle
+• Contribute to planning, requirements, development, testing, and
+quality assurance
+• Participate in technical project milestone reviews and code
+architecture sessions
+• Provide resource estimation and development best practices
+knowledge transfer
+• Participate in Program Increments (PIs) and Agile Release Train
+(ART) activities
+• Support the multi-enclave environment (Unclassified, Secret, and
+Top Secret)
+• Collaborate with cross-functional teams to ensure seamless
+integrationExperience with Agile methodologies
+• Understanding of forensic and investigative system requirements
+• One or more programming languages: Java, .NET(C#), Python
+• Software architecture principles and patterns
+• Object-oriented design and development
+• Relational Databases and SQL (MySQL, PostgreSQL, Microsoft
+SQL)
+• REST API development and integration
+• Git and other source control management systems
+• Software development lifecycle (SDLC) methodologies
+• Unit testing and test-driven development
+
+================================================================================
+SAMPLE 14: Altamira Technologies - Software Engineer
+================================================================================
+
+Altamira Technologies has a long and successful history providing
+innovative solutions throughout the U.S. National Security community.
+Headquartered in McLean, Virginia, Altamira serves the defense,
+intelligence and homeland security communities by focusing on creating
+innovative solutions leveraging common standards in architecture, data
+and security. Altamira believes that our people and the culture of our
+company differentiate us from other companies.
+
+We focus on recruiting talented, self-motivated employees that strive to
+find a way to get things done. Join our team of experts as we engineer
+national security!
+
+Altamira is seeking a Software Engineer to help our National Air & Space
+Intelligence Center (NASIC) customer engineer advanced data
+management, analysis, and visualization tools to support their critical
+mission.
+
+Experience
+• Demonstrated experience and/or familiarity with Typescript,
+JavaScript, JSON, Linux Shell/BASH, Docker, YML, git
+• Familiarity with Kubernetes, ElasticSearch CRUD, Node.js Express
+• Nice to Haves: Experience with Docker Swarm, GitLab CI/CD
+processes, Python, Kibana, Prometheus, Grafana
+
+Requirements
+• Bachelor's degree in Computer Science (or similar) from an
+accredited college or university
+• At least 2 years of professional experience in Software Engineering
+• Active TS/SCI Clearance
+
+================================================================================
+SAMPLE 15: Software Engineer (SWE)
+================================================================================
+
+Clearance Level: Must have an Active Full Scope Poly to be considered
+for this position
+Location: Fort Mead, MD
+
+Our customer is seeking a Software Engineer to contribute to national
+security programs with a federal intelligence agency
+
+Responsibilities to include but not limited to:
+The Software Engineer will be responsible for developing, maintaining,
+and enhancing complex and diverse software systems:
+• processing-intensive analytics
+• novel algorithm development
+• manipulation of extremely large data sets
+• real-time systems, and business management information systems)
+based upon documented requirements.
+• Works individually or as part of a team.
+• Reviews and tests software components for adherence to the
+design requirements and documents test results.
+• Resolves software problem reports.
+• Utilizes software development and software design methodologies
+appropriate to the development environment.
+• Provides specific input to the software components of system
+design to include hardware/software trade offs, software reuse, use of
+Commercial Off-the-shelf (COTS)/Government Off the shelf (GOTS) in place
+of new development, and requirements analysis and synthesis from system
+level to individual software components.
+
+Capabilities: Software Engineer (SWE) shall possess the following:
+• Analyze user requirements to derive software design and
+performance requirements
+• Debug existing software and correct defects
+• Provide recommendations for improving documentation and
+software development process standards
+• Design and code new software or modify existing software to add
+new features
+• Integrate existing software into new or modified systems or
+operating environments (U) Develop simple data queries for
+existing or proposed databases or data repositories
+
+Qualifications:
+• Bachelor's degree in Computer Science or related discipline from
+an accredited college or university is required
+• Four (4) years of SWE experience on projects with similar software
+processes may be substituted for a bachelor's degree.
+• Clearance Level: Full Scope Poly
+
+Benefits Include:
+• 401k Retirement Plan
+• Health Care Coverage
+• Health Savings Account
+• Pet Insurance
+• Flexible Spending Account
+
+PTO:
+• 0-2 Years – 21 days
+• 2-8 Years – 26 days
+• 8-15 Years – 28 days
+• 16+ Years – 31 days
+
+Professional Development Program: reimburses Up to $2k per year for
+classes, seminars, licensing and certifications.
+
+Referral Bonuses: Up to $10,000 referral bonus, both you and the person
+you refer must be employed by for a minimum of 90 days.
+
+Employee Assistance Program: Offers services to help the well-being of
+employees and their dependent family members.
+
+Worldwide Travel Assistance: for travel beyond 100 miles of employees'
+residence
+
+We are an Equal Opportunity Employer.
+
+================================================================================
+END OF SAMPLE JOB DESCRIPTIONS
+================================================================================

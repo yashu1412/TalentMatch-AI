@@ -1,0 +1,111 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Resume {
+  id              String         @id @default(uuid())
+  fileName        String
+  fileType        String
+  filePath        String?
+  rawText         String         @db.Text
+  candidateName   String?
+  email           String?
+  phone           String?
+  totalExperience Float?
+  createdAt       DateTime       @default(now())
+  updatedAt       DateTime       @updatedAt
+
+  parsedResume    ParsedResume?
+  matchResults    MatchResult[]
+
+  @@map("resumes")
+}
+
+model ParsedResume {
+  id             String    @id @default(uuid())
+  resumeId       String    @unique
+  skills         Json
+  education      Json?
+  workHistory    Json?
+  projects       Json?
+  normalizedText String?   @db.Text
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+
+  resume         Resume    @relation(fields: [resumeId], references: [id], onDelete: Cascade)
+
+  @@map("parsed_resumes")
+}
+
+model JobDescription {
+  id                String       @id @default(uuid())
+  jobCode           String       @unique
+  title             String?
+  sourceType        String       // pasted_text | uploaded_file
+  fileName          String?
+  fileType          String?
+  filePath          String?
+  rawText           String       @db.Text
+  salaryRaw         String?
+  roleSummary       String?      @db.Text
+  yearsExperience   Float?
+  createdAt         DateTime     @default(now())
+  updatedAt         DateTime     @updatedAt
+
+  parsedJD          ParsedJD?
+  matchResults      MatchResult[]
+
+  @@map("job_descriptions")
+}
+
+model ParsedJD {
+  id                String    @id @default(uuid())
+  jobDescriptionId  String    @unique
+  requiredSkills    Json
+  optionalSkills    Json?
+  allSkills         Json
+  normalizedText    String?   @db.Text
+  location          String?
+  employmentType    String?
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+
+  jobDescription    JobDescription @relation(fields: [jobDescriptionId], references: [id], onDelete: Cascade)
+
+  @@map("parsed_jds")
+}
+
+model MatchResult {
+  id                String    @id @default(uuid())
+  resumeId          String
+  jobDescriptionId  String
+  matchingScore     Float
+  matchedSkills     Int
+  totalJdSkills     Int
+  skillsAnalysis    Json
+  resultJson        Json
+  createdAt         DateTime  @default(now())
+  updatedAt         DateTime  @updatedAt
+
+  resume            Resume         @relation(fields: [resumeId], references: [id], onDelete: Cascade)
+  jobDescription    JobDescription @relation(fields: [jobDescriptionId], references: [id], onDelete: Cascade)
+
+  @@unique([resumeId, jobDescriptionId])
+  @@map("match_results")
+}
+
+model SkillDictionary {
+  id            String   @id @default(uuid())
+  canonicalName String   @unique
+  aliases       Json
+  category      String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  @@map("skill_dictionary")
+}
